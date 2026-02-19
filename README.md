@@ -1,1 +1,1 @@
-Nodejs version of Planet PHP Framework
+Minimal Nodejs framework recently under development.
